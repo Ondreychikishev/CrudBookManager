@@ -1,6 +1,8 @@
-Создание и заполнение БД - database_creation.sql
+database_creation.sql - заполнение таблицы
+******************************************
+БД - test, таблица - book
+*************************
+user - root
+password - root
 
-База - test, таблица - book
-
-user/password - root/root
 
